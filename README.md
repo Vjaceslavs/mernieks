@@ -1,3 +1,2 @@
 # mernieks
-first project
-Hello
+My first project
